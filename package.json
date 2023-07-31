@@ -1,5 +1,5 @@
 {
-  "name": "doublepen-express",
+  "name": "single-pendulums-express",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
